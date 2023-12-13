@@ -1,19 +1,11 @@
 ### Hi there 👋, I am DHARSHANA D.
 #### A DATA SCIENCE ASPIRANT
 - Computer Science & Engineering student at KPRIET.
-Interest in Machine Learning:
-
-I have a keen interest in machine learning.
-Skills:
-
-I excel in problem-solving and decision-making.
-Education and Internship:
-
-I am a Data Science Enthusiast who completed a Machine Learning internship at CCMPL, Kyungpook National University, South Korea.
+Interest in Machine Learning:I have a keen interest in machine learning.
+Skills:I excel in problem-solving and decision-making.
+Education and Internship:I am a Data Science Enthusiast who completed a Machine Learning internship at CCMPL, Kyungpook National University, South Korea.
 Currently, I am undertaking an internship in deep learning within the same company.
-Additional Courses:
-
-I have successfully completed NPTEL 2 courses and a fundamental data analytics course.. 
+Additional Courses:I have successfully completed NPTEL 2 courses and a fundamental data analytics course.. 
 
 Skills: 
 
