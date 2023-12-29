@@ -3,8 +3,6 @@
 - Computer Science & Engineering student at KPRIET.
 Interest in Machine Learning:I have a keen interest in machine learning.
 
-Skills:I excel in problem-solving and decision-making.
-
 Education and Internship:I am a Data Science Enthusiast who completed a Machine Learning internship at CCMPL, Kyungpook National University, South Korea.
 Currently, I am undertaking an internship in deep learning within the same company.
 
